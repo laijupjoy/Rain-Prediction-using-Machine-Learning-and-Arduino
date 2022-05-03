@@ -1,0 +1,9 @@
+
+Probability of Raining = a.humidity + b.temperature + c.sunlight + d
+
+where a, b and c are coefficient and d is intercept
+
+Rain in % = a.Heat + b.Temperature + c.Sunlight + d
+
+We will read Heat, Temperature an Sunlight from sensors,
+So we have to find coefficient a,b and c, and intercept d.
