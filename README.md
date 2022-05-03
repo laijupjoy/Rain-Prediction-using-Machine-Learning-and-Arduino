@@ -2,4 +2,4 @@
 
 ## Circuit Diagram
 
-![](arduino1.jpg)
+![](arduino.jpg)
